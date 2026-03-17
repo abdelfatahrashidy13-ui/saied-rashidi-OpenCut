@@ -1,5 +1,5 @@
 {
-	"name": "@opencut/env",
+	"name": "@saidrashdiyEditor/env",
 	"version": "0.0.0",
 	"description": "Environment package for OpenCut",
 	"main": "./src/index.ts",
